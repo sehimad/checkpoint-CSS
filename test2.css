@@ -1,0 +1,91 @@
+#titre1 { 
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    border: 2px solid black;
+    background-color: black;
+    letter-spacing: 10px;
+    background-image: url(image1/messi1.jpg);
+    
+}
+
+p { 
+    color: black;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+}
+#goat {
+    color: black;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    padding-left: 40px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-right: 40px;
+}
+#titre2 {
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    border: 2px solid black;
+    background-color: black;
+    letter-spacing: 20px;
+    background-image: url(image1/messi1.jpg);
+    
+    
+}
+.division1 p {
+    color:black;
+    font-style: italic;
+}
+.division2 p {
+    font-style: italic;
+}
+ nav{
+  
+    color: rgb(4, 4, 4);
+    
+   }
+    
+ul{
+    list-style-type: none;
+    font-size: larger;
+    
+    text-align: center;
+   
+}
+li{
+    display: inline-block;
+   margin: 20px;
+}
+#titre3{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    border: 2px solid black;
+    background-color: black;
+    letter-spacing: 20px;
+    background-image: url(image1/messi1.jpg);
+    
+
+}
+.video{
+    display: flex;
+      justify-content: center;
+      align-items: center;
+    
+}
+footer{
+    color: white;
+    text-align: center;
+    border: 3px solid skyblue;
+    background-image: url(image1/1916ffb4fe5874d2d332ae652632f986453c6f0c.jpg);
+}
+   
+    
+
+
+
+
